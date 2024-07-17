@@ -1,0 +1,266 @@
+[
+{
+  "model": "meals.mealcategorymodel",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-12-22T18:48:41.685Z",
+    "title": "breakfast"
+  }
+},
+{
+  "model": "meals.mealcategorymodel",
+  "pk": 2,
+  "fields": {
+    "created_at": "2023-12-22T18:48:48.829Z",
+    "title": "lunch"
+  }
+},
+{
+  "model": "meals.mealcategorymodel",
+  "pk": 3,
+  "fields": {
+    "created_at": "2023-12-22T18:48:54.076Z",
+    "title": "dinner"
+  }
+},
+{
+  "model": "meals.mealcategorymodel",
+  "pk": 4,
+  "fields": {
+    "created_at": "2023-12-22T18:49:01.929Z",
+    "title": "desserts"
+  }
+},
+{
+  "model": "meals.mealcategorymodel",
+  "pk": 5,
+  "fields": {
+    "created_at": "2023-12-22T18:49:21.228Z",
+    "title": "alcohol drinks"
+  }
+},
+{
+  "model": "meals.mealcategorymodel",
+  "pk": 6,
+  "fields": {
+    "created_at": "2023-12-22T18:49:34.530Z",
+    "title": "other drinks"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-12-23T19:11:12.337Z",
+    "image": "meals_images/breakfast-1.jpg",
+    "title": "Beef br Roast Source",
+    "category": 1,
+    "price": 29,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 2,
+  "fields": {
+    "created_at": "2023-12-23T19:11:57.104Z",
+    "image": "meals_images/breakfast-2.jpg",
+    "title": "Beef br Roast Source",
+    "category": 1,
+    "price": 22,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 3,
+  "fields": {
+    "created_at": "2023-12-23T19:13:54.640Z",
+    "image": "meals_images/lunch-1.jpg",
+    "title": "Beef ln Roast Source",
+    "category": 2,
+    "price": 20,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 4,
+  "fields": {
+    "created_at": "2023-12-23T20:57:50.436Z",
+    "image": "meals_images/dessert-1.jpg",
+    "title": "Beef ds Roast Source",
+    "category": 4,
+    "price": 21,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 5,
+  "fields": {
+    "created_at": "2023-12-24T18:17:08.524Z",
+    "image": "meals_images/dinner-1.jpg",
+    "title": "Beef dn Roast Source",
+    "category": 3,
+    "price": 21,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 6,
+  "fields": {
+    "created_at": "2023-12-24T18:18:37.379Z",
+    "image": "meals_images/wine-1.jpg",
+    "title": "Beef al Roast Source",
+    "category": 5,
+    "price": 32,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 7,
+  "fields": {
+    "created_at": "2023-12-24T18:19:09.811Z",
+    "image": "meals_images/drink-1.jpg",
+    "title": "Beef od Roast Source",
+    "category": 6,
+    "price": 32,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 8,
+  "fields": {
+    "created_at": "2023-12-24T18:32:54.899Z",
+    "image": "meals_images/dessert-2.jpg",
+    "title": "Beef ds Roast Source",
+    "category": 4,
+    "price": 43,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 9,
+  "fields": {
+    "created_at": "2023-12-24T18:33:33.556Z",
+    "image": "meals_images/dessert-3.jpg",
+    "title": "Beef ds Roast Source",
+    "category": 4,
+    "price": 43,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 10,
+  "fields": {
+    "created_at": "2023-12-24T18:34:45.614Z",
+    "image": "meals_images/dessert-4.jpg",
+    "title": "Beef ds Roast Source",
+    "category": 4,
+    "price": 54,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 11,
+  "fields": {
+    "created_at": "2023-12-24T18:40:38.736Z",
+    "image": "meals_images/wine-2.jpg",
+    "title": "Beef ad Roast Source",
+    "category": 5,
+    "price": 43,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 12,
+  "fields": {
+    "created_at": "2023-12-24T18:41:18.956Z",
+    "image": "meals_images/wine-3.jpg",
+    "title": "Beef ad Roast Source",
+    "category": 5,
+    "price": 21,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 13,
+  "fields": {
+    "created_at": "2023-12-24T18:43:07.805Z",
+    "image": "meals_images/wine-4.jpg",
+    "title": "Beef ad Roast Source",
+    "category": 5,
+    "price": 12,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 14,
+  "fields": {
+    "created_at": "2023-12-24T18:44:58.312Z",
+    "image": "meals_images/breakfast-3.jpg",
+    "title": "Beef br Roast Source",
+    "category": 1,
+    "price": 32,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 15,
+  "fields": {
+    "created_at": "2023-12-24T18:45:26.828Z",
+    "image": "meals_images/breakfast-4.jpg",
+    "title": "Beef br Roast Source",
+    "category": 1,
+    "price": 32,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 16,
+  "fields": {
+    "created_at": "2023-12-24T18:46:45.442Z",
+    "image": "meals_images/lunch-2.jpg",
+    "title": "Beef ln Roast Source",
+    "category": 2,
+    "price": 23,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 17,
+  "fields": {
+    "created_at": "2023-12-24T18:47:16.203Z",
+    "image": "meals_images/lunch-3.jpg",
+    "title": "Beef ln Roast Source",
+    "category": 2,
+    "price": 32,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+},
+{
+  "model": "meals.mealmodel",
+  "pk": 18,
+  "fields": {
+    "created_at": "2023-12-24T18:48:21.165Z",
+    "image": "meals_images/lunch-4.jpg",
+    "title": "Beef ln Roast Source",
+    "category": 2,
+    "price": 12,
+    "description": "Meat, Potatoes, Rice, Tomato"
+  }
+}
+]

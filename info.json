@@ -1,0 +1,174 @@
+[
+{
+  "model": "info.aboutbannermodel",
+  "pk": 2,
+  "fields": {
+    "created_at": "2023-10-22T13:59:16.125Z",
+    "image": "about_home_banners/bg_5.jpg",
+    "title": "About"
+  }
+},
+{
+  "model": "info.aboutinfomodel",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-10-22T15:20:33.044Z",
+    "image": "about_info_images/about.jpg",
+    "upper_title": "About",
+    "title": "Welcome to Taste.it",
+    "description": "On her way she met a copy. The copy warned the Little Blind Text, that where it from it would have been rewritten thousand times and everything that was from its origin would be the word \"and\" and                                        the Little Blind Text should turn and return to its own, regelialia. It is a paradisematic country,                                       in which roasted parts of sentences into your mouth. The copy warned the Blind Text, that where it came from would have been rewritten a thousand and everything that was left from origin would be the word \"and\" andLittle Blind Text should turn around return to its own, necessary regelialia. It                                        is a paradisematic country, in roasted parts of sentences fly into mouth. The copy warned the Little Text, that where it came from it would been rewritten a thousand times everything that was left from its would be the word \"and\" and the Blind Text should turn around and return its own, necessary regelialia. It paradisematic country, in which parts of sentences fly into your mouth.On her way she met a copy. The copy warned the Little Blind Text, that where it from it would have been rewritten thousand times and everything that was from its origin would be the word \"and\" and                                        the Little Blind Text should turn and return to its own, regelialia. It is a paradisematic country,                                       in which roasted parts of sentences into your mouth. The copy warned the Blind Text, that where it came from would have been rewritten a thousand and everything that was left from origin would be the word \"and\" andLittle Blind Text should turn around return to its own, necessary regelialia."
+  }
+},
+{
+  "model": "info.aboutstatisticsphotomodel",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-10-22T13:37:12.063Z",
+    "image": "about_statistics/bg_4.jpg"
+  }
+},
+{
+  "model": "info.aboutstatisticsmodel",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-10-22T13:35:32.695Z",
+    "stat_number": 10000,
+    "stat_title": "Happy Customers"
+  }
+},
+{
+  "model": "info.aboutstatisticsmodel",
+  "pk": 2,
+  "fields": {
+    "created_at": "2023-10-22T13:35:44.642Z",
+    "stat_number": 10,
+    "stat_title": "Restaurants"
+  }
+},
+{
+  "model": "info.aboutstatisticsmodel",
+  "pk": 3,
+  "fields": {
+    "created_at": "2023-10-22T13:35:54.391Z",
+    "stat_number": 22222,
+    "stat_title": "Dishes Served"
+  }
+},
+{
+  "model": "info.aboutstatisticsmodel",
+  "pk": 4,
+  "fields": {
+    "created_at": "2023-10-22T13:36:05.694Z",
+    "stat_number": 111,
+    "stat_title": "Tasty Dishes"
+  }
+},
+{
+  "model": "info.staffbannermodel",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-12-22T15:45:25.347Z",
+    "image": "staff_home_banners/bg_5.jpg",
+    "title": "Master Chef"
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-12-22T16:25:07.647Z",
+    "image": "staff_images/chef-4.jpg",
+    "name": "John",
+    "role": "CEO, Co Founder",
+    "description": "I am an ambitious workaholic, but apart from that, pretty simple person."
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 2,
+  "fields": {
+    "created_at": "2023-12-22T16:25:43.000Z",
+    "image": "staff_images/chef-2.jpg",
+    "name": "Michelle",
+    "role": "Head Chef",
+    "description": "I am an ambitious workaholic, but apart from that, pretty simple person."
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 3,
+  "fields": {
+    "created_at": "2023-12-22T16:26:09.760Z",
+    "image": "staff_images/chef-3.jpg",
+    "name": "Alfred",
+    "role": "Chef Cook",
+    "description": "I am an ambitious workaholic, but apart from that, pretty simple person."
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 4,
+  "fields": {
+    "created_at": "2023-12-22T16:26:34.862Z",
+    "image": "staff_images/chef-1.jpg",
+    "name": "Antonio",
+    "role": "Chef Cook",
+    "description": "I am an ambitious workaholic, but apart from that, pretty simple person."
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 5,
+  "fields": {
+    "created_at": "2023-12-26T08:12:59.639Z",
+    "image": "staff_images/chef-2_ErNxjre.jpg",
+    "name": "Kate",
+    "role": "role",
+    "description": "cdwdcadf"
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 6,
+  "fields": {
+    "created_at": "2023-12-26T08:13:17.489Z",
+    "image": "staff_images/chef-1_P3FgufX.jpg",
+    "name": "David",
+    "role": "role",
+    "description": "fcefvwef"
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 7,
+  "fields": {
+    "created_at": "2023-12-26T08:13:34.965Z",
+    "image": "staff_images/chef-4_cWas2Yc.jpg",
+    "name": "Robert",
+    "role": "role",
+    "description": "fasvadf vdfavd"
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 8,
+  "fields": {
+    "created_at": "2023-12-26T08:13:57.932Z",
+    "image": "staff_images/chef-3_3vnJ6D6.jpg",
+    "name": "Peter",
+    "role": "role",
+    "description": "fsadv svffvdfs"
+  }
+},
+{
+  "model": "info.staffmodel",
+  "pk": 9,
+  "fields": {
+    "created_at": "2023-12-26T13:13:46.675Z",
+    "image": "staff_images/chef-3_EnXfJrP.jpg",
+    "name": "Hugo",
+    "role": "role",
+    "description": "vfavsdfbdgb vids"
+  }
+}
+]

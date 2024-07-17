@@ -1,0 +1,33 @@
+{% for person in staff_list %}
+    <div class="col-md-6 item_box col-lg-3 mb-5 ftco-animate fadeInUp ftco-animated">
+        <div class="staff">
+            <div class="img"
+                 style="background-image: url('{{ person.image }}');"></div>
+            <div class="text px-4 pt-2">
+                <h3>{{ person.name }}</h3>
+                <span class="position mb-2">{{ person.role }}</span>
+                <div class="faded">
+                    <p>{{ person.description }}</p>
+                    <ul class="ftco-social d-flex">
+                        <li class="ftco-animate"><a
+                                href="#"><span
+                                class="icon-twitter"></span></a>
+                        </li>
+                        <li class="ftco-animate"><a
+                                href="#"><span
+                                class="icon-facebook"></span></a>
+                        </li>
+                        <li class="ftco-animate"><a
+                                href="#"><span
+                                class="icon-google-plus"></span></a>
+                        </li>
+                        <li class="ftco-animate"><a
+                                href="#"><span
+                                class="icon-instagram"></span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
